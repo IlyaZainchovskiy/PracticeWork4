@@ -1,0 +1,14 @@
+D:\МНТУ\ООП\PtacticeWork4\Task2\bin\Debug\net9.0\Task2.exe
+D:\МНТУ\ООП\PtacticeWork4\Task2\bin\Debug\net9.0\Task2.deps.json
+D:\МНТУ\ООП\PtacticeWork4\Task2\bin\Debug\net9.0\Task2.runtimeconfig.json
+D:\МНТУ\ООП\PtacticeWork4\Task2\bin\Debug\net9.0\Task2.dll
+D:\МНТУ\ООП\PtacticeWork4\Task2\bin\Debug\net9.0\Task2.pdb
+D:\МНТУ\ООП\PtacticeWork4\Task2\obj\Debug\net9.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\МНТУ\ООП\PtacticeWork4\Task2\obj\Debug\net9.0\Task2.AssemblyInfoInputs.cache
+D:\МНТУ\ООП\PtacticeWork4\Task2\obj\Debug\net9.0\Task2.AssemblyInfo.cs
+D:\МНТУ\ООП\PtacticeWork4\Task2\obj\Debug\net9.0\Task2.csproj.CoreCompileInputs.cache
+D:\МНТУ\ООП\PtacticeWork4\Task2\obj\Debug\net9.0\Task2.dll
+D:\МНТУ\ООП\PtacticeWork4\Task2\obj\Debug\net9.0\refint\Task2.dll
+D:\МНТУ\ООП\PtacticeWork4\Task2\obj\Debug\net9.0\Task2.pdb
+D:\МНТУ\ООП\PtacticeWork4\Task2\obj\Debug\net9.0\Task2.genruntimeconfig.cache
+D:\МНТУ\ООП\PtacticeWork4\Task2\obj\Debug\net9.0\ref\Task2.dll
