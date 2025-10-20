@@ -4,6 +4,7 @@
 
 
 # Task2
+<img width="1347" height="770" alt="зображення" src="https://github.com/user-attachments/assets/4c2ee4f6-50f0-403a-9acc-500426efdc7a" />
 
 
 
