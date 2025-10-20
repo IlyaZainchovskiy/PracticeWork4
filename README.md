@@ -14,3 +14,4 @@
 
 
 # Task4
+<img width="1342" height="762" alt="зображення" src="https://github.com/user-attachments/assets/809a61d1-af23-4b5f-81ca-18bd65540a08" />
